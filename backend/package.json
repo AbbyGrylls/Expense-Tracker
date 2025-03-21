@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "fastapi": "^0.0.8",
+    "ffmpeg": "^0.0.4"
+  }
+}

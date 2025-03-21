@@ -1,0 +1,20 @@
+# Node modules and Python environment files
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs and cache
+*.log
+.cache/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore environment files
+.env
+.env.local
+.env.*.local
+service_account.json
+*.service_account.json

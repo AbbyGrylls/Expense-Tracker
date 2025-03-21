@@ -1,0 +1,8 @@
+# Ignore environment files
+.env
+.env.local
+.env.*.local
+
+# Ignore service account file
+service_account.json
+*.service_account.json
